@@ -1,0 +1,30 @@
+Hello!
+
+Welcome to sudoku.
+Sudoku is played in a 9X9 grid with some numbers already filled in.
+
+Objective:
+
+The aim of the game is to fill up the cells with 0 in then in such a way that:
+1.No row has a number less than 1 and greater than 9.
+2.No row has a repetition of any of the numbers.
+3.No column has a number less than 1 and greater than 9.
+4.No column has a repetition of any of the numbers.
+5.No 3X3 has a number less than 1 and greater than 9.
+6.No 3X3 square has a repetition of any of the numbers.
+
+AS SIMPLE AS THAT!
+
+But it may not be as simple as it sounds because playing sudoku requires a lot of concentration and a good sense of log$
+
+Don't worry.
+The levels in this game are of increasing difficulty and you also have upto 10 hints per game to help you get out of the stick situation.
+Also, there are several checks to make sure that you are entering the right numbers in the right cells so that you keep going in the right track.
+The best part is that incase you can't complete the game, then you can look at the solution at any time during the game.
+However, that means you can't go on with that game. Hence, choose carefully.
+
+Tips:
+While playing sudoku, the best method would be to choose a row, column or 3X3 sqaure
+with the most numbers already filled in and work outward from there.
+
+Go on and sharpen your brain with this simple game and have fun while you do so!
